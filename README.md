@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m Kamal Elsayed, [Linkedin](https://www.linkedin.com/in/kamaleldin/).</br>
 ⚡ I'm a data professional with a strong foundation in statistics, image analysis and computer vision. </br>
-⚡ I come with a rich career in technical sales engineering for internet of things (IIoT) and AR/VR in the oil & gas and manufacturing sectors.</br>
+⚡ I come with a rich career in solution engineering for data analytics, internet of things (IIoT) and AR/VR in the oil & gas and manufacturing.</br>
 👯 I’m looking to collaborate on projects in the domain of Geospatial data, Agritech, Healthcare and Water.</br>
 🌱 I finished my Masters of Science in Data Science from Tilburg university (TiU) in the Netherlands.</br>
 💬 Reach me via <k.eldin.kamal@gmail.com> or find me through Linkedin <https://www.linkedin.com/in/kamaleldin/></br>
